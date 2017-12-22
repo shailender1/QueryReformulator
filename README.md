@@ -1,4 +1,4 @@
-# QueryReformulator
+# QueryReformulator using TensorForce
 
 QueryReformulator is based on Deep Reinforcement Learning. It is an implementation using tensorforce library.
 
