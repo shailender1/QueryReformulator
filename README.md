@@ -1,6 +1,8 @@
 # QueryReformulator
 
-QR_tensorforce is based on Deep Reinforcement Learning. It is based on implementation of Query Reformulator
+QueryReformulator is based on Deep Reinforcement Learning. It is an implementation using tensorforce library.
+
+The original paper is:
 
 - [Paper: Task-Oriented Query Reformulation with Reinforcement Learning](https://arxiv.org/abs/1704.04572)
 
