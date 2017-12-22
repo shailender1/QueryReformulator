@@ -203,7 +203,7 @@ class QueryReformulatorEnv(Environment):
         Returns: dict of state properties (shape and type).
         """
         print("dict of state")
-        res = dict(shape = (10,40,15), type = 'int')
+        res = dict(shape = (10,40,15), type = 'float')
         return res
 
     @property
@@ -213,7 +213,7 @@ class QueryReformulatorEnv(Environment):
         Returns: dict of action properties (continuous, number of actions)
         """
         print("dict of action")
-        res = dict(shape = (10,30), num_actions = (2), type = 'int')
+        res = dict(shape = (10,30), num_actions = (2), type = 'float')
         return res
 
 
